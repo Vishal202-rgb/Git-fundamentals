@@ -1,2 +1,3 @@
 This is the beauty of Devops
 Then explore it
+Every small step is being moving forward to the goal
